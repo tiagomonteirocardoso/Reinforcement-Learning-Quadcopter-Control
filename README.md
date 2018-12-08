@@ -13,3 +13,6 @@ To run it, you must have the following libraries installed:
 - NumPy
 - pandas
 - matplotlib
+
+# Acknowledgments
+For plotting the quadcopter's flights I used code implemented by Diogo Dutra (retrieved from https://github.com/diogodutra/quad_AI)
